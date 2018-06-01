@@ -1,0 +1,17 @@
+.cell {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: gray;
+  margin: 5px; }
+
+.queen {
+  background: black; }
+
+.row {
+  width: fit-content; }
+
+.board {
+  width: fit-content;
+  padding: 10px;
+  border: 5px solid black; }
